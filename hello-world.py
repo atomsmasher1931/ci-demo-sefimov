@@ -11,3 +11,4 @@ question = os.getenv("CI", "Undefined")
 
 print(f"Hello, world! The time is {testTime}")
 print(f"Hello, Slurm! It's running inside CI - {question}")
+print(f"Проверим как работает пущ")
